@@ -10,8 +10,13 @@
 
 
 # Related Resources:
-1- R for Data Science [https://r4ds.had.co.nz/]
-2- ggplot2: Elegant Graphics for Data Analysis [https://ggplot2-book.org/]
-3- Data manipulation in R [https://statsandr.com/blog/data-manipulation-in-r/]
-4- dplyr[https://dplyr.tidyverse.org/]
-5- R Notebook[https://bookdown.org/yihui/rmarkdown/notebook.html]
+- R for Data Science [https://r4ds.had.co.nz/]
+- ggplot2: Elegant Graphics for Data Analysis [https://ggplot2-book.org/]
+- Data manipulation in R [https://statsandr.com/blog/data-manipulation-in-r/]
+- dplyr[https://dplyr.tidyverse.org/]
+- R Notebook[https://bookdown.org/yihui/rmarkdown/notebook.html]
+- R data visualization [https://r-graph-gallery.com/circular-barplot.html]
+- Posit Cheatsheets [https://posit.co/resources/cheatsheets/]
+
+# Contact me:
+You can reach out me through my email: Lan Zhou, l.zhou@rug.nl, PhD student in Neuroscience, University of Groningen, Netherlands.
