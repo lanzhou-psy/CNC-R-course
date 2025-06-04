@@ -8,7 +8,7 @@ This course is designed to enhance your knowledge of R programming with a focus 
 There are three sections in the workshop:
 - section 1: introduction to R and R studio
 - section 2: code style and practices in Rstudio
-- section 3: data cleaning workflow, including, data preparation, data preview, data check and cleaning, and save data.
+- section 3: data cleaning workflow, including load packages, set working directory, data preparation, data preview, data check, data cleaning, and save data.
 
 
 # Related Resources:
